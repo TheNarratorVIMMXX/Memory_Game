@@ -99,6 +99,13 @@ project/
 
 ---
 
+### 🖥️ System Requirements
+- **OS:** Windows 7/8/10/11
+- **RAM:** 70 MB minimum
+- **Storage**: ~50MB free space
+
+---
+
 ## 🎮 How to Run
 
 1. **Clone the repository**:
