@@ -36,7 +36,7 @@ import time                                                                     
 # Configuración de la Pantalla
 game_screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))                # Crear la Ventana del Juego
 pygame.display.set_caption("Memory Game - Soccer Edition")                          # Título de la Ventana
-
+pygame.display.set_icon(pygame.image.load(get_image_path("logo.ico")))              # Agregar Icono a la Ventana
 
 # Configuración de la Música de Fondo
 background_music = get_music_path("GameMusic.wav")                                  # Ruta de la Música de Fondo
